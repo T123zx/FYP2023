@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "BirthdayList",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "EmployeeBirthday",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "EmployeeName",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
