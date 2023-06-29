@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "948630052599",
+    "project_id": "finalyearproject-cbfe5",
+    "storage_bucket": "finalyearproject-cbfe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948630052599:android:7262569f96fd0f05ccfdf2",
+        "android_client_info": {
+          "package_name": "com.example.birthdayreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948630052599-7grg4djj7q6le6uscqiimrvmpmadq05a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.birthdayreminder",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "948630052599-m2dai5oeemh7o7d64spru5mvhu7no2c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmWm9w0q_ttEmm1tPwFjfvlYKHznVNglw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948630052599-m2dai5oeemh7o7d64spru5mvhu7no2c3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "948630052599-eiqe98j30vhq22tt042nsi15vma3v36u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.birthdayreminder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948630052599:android:af908ae9edf6db49ccfdf2",
+        "android_client_info": {
+          "package_name": "com.mycompany.birthdayreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948630052599-7uvvnb9f97s4h32u4oq3am7e5n0c260q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.birthdayreminder",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "948630052599-m2dai5oeemh7o7d64spru5mvhu7no2c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmWm9w0q_ttEmm1tPwFjfvlYKHznVNglw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948630052599-m2dai5oeemh7o7d64spru5mvhu7no2c3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "948630052599-eiqe98j30vhq22tt042nsi15vma3v36u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.birthdayreminder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

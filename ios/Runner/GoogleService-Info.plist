@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>948630052599-eiqe98j30vhq22tt042nsi15vma3v36u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.948630052599-eiqe98j30vhq22tt042nsi15vma3v36u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>948630052599-7grg4djj7q6le6uscqiimrvmpmadq05a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpOGaGaYKG0yDafUv0u-S8LVH8ykp_uJU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>948630052599</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.birthdayreminder</string>
+	<key>PROJECT_ID</key>
+	<string>finalyearproject-cbfe5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finalyearproject-cbfe5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:948630052599:ios:fb94238cfc6b8a7eccfdf2</string>
+</dict>
+</plist>
