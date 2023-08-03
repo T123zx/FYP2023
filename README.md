@@ -1,20 +1,14 @@
-# BirthdayReminder
+# Company Birhtday Information App
 
-A new Flutter project.
+A Flutter project which aims to provide better employee birthday management system for the usage of company employers in order to increase the employee's engagement to the company.
 
-## Getting Started
+## Basic Functionalities and Performances of the App
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+1. Connects the system to the online database for users to access the data.
+2. Allows users to perform basic CRUD operations to the data in the database (ie. the birthday information of the employees).
+3. Displays employees having birthdays on the relevant date.
+4. Others: Easy to understand User Interface, Simple to use
 
-### Getting started continued:
+### External Links:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link to Google Drive for APK file: https://drive.google.com/drive/folders/1DjyoIzm6skBYd5DUZjtSGksxgSeUQEHr?usp=sharing
